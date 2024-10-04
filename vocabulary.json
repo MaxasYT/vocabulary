@@ -178,9 +178,77 @@
       "la patience": "Geduld",
       "la bienveillance": "Wohlwollen"
     },
-    "testBuilder": {
-      "prueba1": "Test1",
-      "prueba2": "Test2"
-    }
+    "La famille es les amis": {
+        "le désir": "Verlangen",
+        "la surprise": "Überraschung",
+        "l'euphorie": "Euphorie",
+        "l'extase": "Extase",
+
+        "la crainte": "Furcht",
+        "la terreur": "Entsetzen, Schrecken",
+        "la rage": "Wut",
+        "le stress": "Stress",
+        "le dégoût": "Abscheu",
+
+        "l'amour": "Liebe",
+        "l'affection": "Zuneigung",
+        "la satisfaction": "Zufriedenheit, Befriedigung",
+        "la gaieté": "Fröhlichkeit",
+        "la passion": "Leidenschaft",
+        "le bonheur": "Glück",
+        "la bienveillance": "Wohlwollen",
+        "la fierté": "Stolz",
+
+        "le mécontentement": "Unzufriedenheit",
+        "la honte": "Scham",
+        "la haine": "Hass",
+        "la jalousie": "Eifersucht",
+        "l'envie": "Neid, Missgunst",
+        "la gêne": "Scham",
+        "le mépris": "Verachtung",
+        "la déception": "Enttäuschung",
+        "la frustration": "Frust",
+        "l'indifférence": "Gleichgültigkeit",
+
+        "draguer": "anmachen",
+        "flirter": "flirten",
+        "charmer": "bezirzen",
+        "séduire": "verführen",
+        "fasciner": "faszinieren",
+        "admirer": "bewundern",
+        "être attiré/e par qn": "sich zu jm hingezogen fühlen",
+        "tomber amoureux/se": "sich verlieben",
+
+        "la complicité": "Gemeinsamkeit",
+        "la collaboration": "Zusammenarbeit",
+        "la coopération": "Kooperation",
+        "l'union": "Zusammengehörigkeit",
+        "le lien fraternel": "geschwisterliche Verbindung",
+        "le lien filial": "kindliche Bindung",
+        "le lien conjugal": "eheliche Bindung",
+        "l'harmonie": "Harmonie",
+        "la synergie": "Synergie",
+        "la fusion": "Zusammenschluss",
+
+        "la rivalité": "Rivalität",
+        "l'opposition": "Opposition",
+        "la confrontation": "Konfrontation",
+        "la dispute": "Streit",
+        "la bagarre": "Schlägerei",
+        "le conflit": "Konflikt",
+        "la déchirure": "Riss",
+        "la trahison": "Verrat",
+        "la tromperie": "Betrug, Täuschung",
+
+        "s'associer avec qn": "sich mit jm zusammentun",
+        "s'unir à qn": "sich mit jm vereinen",
+        "se confier à qn": "sich jm anvertrauen",
+        "s'entendre avec qn": "sich mit jm verstehen",
+        "échanger avec qn": "sich mit jm austauschen",
+        "se rapprocher de qn": "sich jm nähern",
+        "soutenir qn": "jm unterstützen",
+        "épauler qn": "jm unter die Arme greifen",
+        "ne faire qu'un": "ein Herz und eine Seele sein"
+    }    
   }
 }
